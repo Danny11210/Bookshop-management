@@ -1,4 +1,4 @@
-// This code is for bookshop management
+
 #include <fstream>
 #include <iostream>
 #include <stdio.h>
